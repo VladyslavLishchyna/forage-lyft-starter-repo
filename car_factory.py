@@ -6,7 +6,6 @@ from car import Car
 from engines.engine_type import EngineType
 from engines.engines_factory import EnginesFactory
 from batteries.batteries_factory import BatteriesFactory
-from engines.service_needed_checkers.engine_service_needed_checking_type import EngineServiceNeededCheckingType
 
 
 class CarFactory:
